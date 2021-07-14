@@ -12,7 +12,7 @@
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>   
 
 **My Stats**  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yashelter&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yashelter&theme=tokyonight&show_icons=true)
  
 
 
@@ -30,10 +30,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashelter&layout=default&theme=tokyonight)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashelter&layout=compact&theme=tokyonight" />
-</a>
 <!-- for future
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashelter&repo= &theme=tokyonight" />
