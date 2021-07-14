@@ -3,8 +3,18 @@
 - 🌱 I’m currently learning c#
 - 👯 I’m looking to collaborate on making a game on unity
 
+**Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/charp/charp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>   
+
+**My Stats**  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yashelter&theme=tokyonight)
+ 
+
 
 <!--
 **yashelter/yashelter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
