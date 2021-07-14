@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on making a game on unity
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashelter)](https://github.com/yashelter/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yashelter&theme=tokyonight)
 
 <!--
 **yashelter/yashelter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
