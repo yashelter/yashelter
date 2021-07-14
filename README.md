@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there, i'm yashelter , ![Discord](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=yashelter%235404)
+
+- 🌱 I’m currently learning c#
+- 👯 I’m looking to collaborate on making a game on unity
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yashelter/yashelter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
