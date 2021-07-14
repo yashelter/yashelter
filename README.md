@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashelter&layout=compact&hide=ShaderLab&theme=tokyonight)
+![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashelter&layout=compact&hide=ShaderLab,HLSL&langs_count=10&custom_title=My Language Stats&theme=tokyonight)
 
 <!-- for future
 <a href="https://github.com/anuraghazra/github-readme-stats">
