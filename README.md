@@ -12,8 +12,9 @@
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>   
 
 ### My Stats
-P. S. This stats not display my skills, it's only display interesting %
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yashelter&theme=tokyonight&show_icons=true&custom_title="My%20GitHub%20Statistics)
+## P. S. This stats not display my skills, it's only display interesting percent of using technologies
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yashelter&theme=tokyonight&show_icons=true&custom_title="My%20GitHub%20Statistics) 
 
 ![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashelter&layout=compact&hide=ShaderLab,HLSL&langs_count=10&custom_title=My%20Language%20Stats&theme=tokyonight)
 
