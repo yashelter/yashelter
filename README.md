@@ -1,4 +1,4 @@
-# Hello there, i'm yashelter , ![Discord](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=yashelter%235404)
+# Hello there, i'm yashelter , ![Discord](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=yashelter)
 
 - 🌱 I’m currently learning c#
 
