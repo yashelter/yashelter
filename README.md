@@ -18,6 +18,9 @@
 
 ![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashelter&layout=compact&hide=ShaderLab,HLSL&langs_count=10&custom_title=My%20Language%20Stats&theme=tokyonight)
 ![Visitors](https://moe-counter.glitch.me/get/@yashelter?theme=rule34)
+
+![Snake animation](https://raw.githubusercontent.com/yashelter/yashelter/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 <!-- for future
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashelter&repo= &theme=tokyonight" />
