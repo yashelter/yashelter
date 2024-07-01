@@ -1,6 +1,11 @@
 # Hello there, i'm yashelter
 
+<div align="center">
+
 ![Misaka](misaka.gif)
+
+</div>
+
 <div align="center">
   <a href="https://t.me/yashelter"><img src="https://img.shields.io/badge/-@yashelter-%231DA1F2?style=flat-square&logo=telegram&logoColor=ffffff" height="25"/></a>
   <img src="https://img.shields.io/badge/-yashelter-%235666f0?style=flat-square&logo=discord&logoColor=ffffff" height="25" link=""/>
