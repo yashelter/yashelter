@@ -54,7 +54,7 @@ Will write here something.. later)
 
 <div align="center">
 
-![Visitors](https://moe-counter.glitch.me/get/@yashelter?theme=rule34)
+![Visitors](https://count.getloli.com/@yashelter?name=yashelter&theme=booru-qualityhentais&padding=8&offset=0&align=center&scale=1.1&pixelated=1&darkmode=auto)
 
 </div>
 
