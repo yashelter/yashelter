@@ -43,7 +43,7 @@ Will write here something.. later)
 ### 📈 `A bit statistics`
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashelter&show_icons=true&hide_border=true&title_color=cyan&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true" height="200" />
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=yashelter&show_icons=true&hide_border=true&title_color=cyan&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true" height="200" />
 
 <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashelter&text_color=FFFFFF&bg_color=000000&title_color=cyan&hide=ShaderLab,HLSL,Mathematica&langs_count=10&layout=compact&hide_border=true" />
 </div>
